@@ -9,7 +9,7 @@
    "NotActions": [
    ],
    "AssignableScopes": [
-       "/providers/Microsoft.Management/managementGroups/az104-02-mg1",
-       "/subscriptions/SUBSCRIPTION_ID"
+       "/providers/Microsoft.Management/managementGroups/0c8fe9d5-38cc-46d4-828e-db3f12777f88",
+       "/subscriptions/40ddbca6-6c70-48c1-8755-129932b17c9b"
    ]
 }
